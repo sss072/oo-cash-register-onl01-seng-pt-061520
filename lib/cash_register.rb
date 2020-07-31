@@ -1,2 +1,3 @@
-class CashRegister 
+class CashRegister
+  attr_accessor :
   
